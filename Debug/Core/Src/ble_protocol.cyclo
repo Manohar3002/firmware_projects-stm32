@@ -1,0 +1,6 @@
+../Core/Src/ble_protocol.c:62:6:HAL_UART_RxCpltCallback	2
+../Core/Src/ble_protocol.c:168:10:crc16_modbus	3
+../Core/Src/ble_protocol.c:575:6:sendResponse	2
+../Core/Src/ble_protocol.c:87:6:process_UART	8
+../Core/Src/ble_protocol.c:241:6:processFrame	39
+../Core/Src/ble_protocol.c:208:6:frame_count_check	3

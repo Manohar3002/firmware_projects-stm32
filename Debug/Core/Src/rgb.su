@@ -1,0 +1,4 @@
+../Core/Src/rgb.c:33:6:Set_RGB	24	static
+../Core/Src/rgb.c:23:6:Set_Color	24	static
+../Core/Src/rgb.c:46:6:Restore_RGB	16	static
+../Core/Src/rgb.c:53:6:RGB	16	static

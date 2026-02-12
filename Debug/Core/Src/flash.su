@@ -1,0 +1,5 @@
+../Core/Src/flash.c:14:6:Flash_Init	8	static
+../Core/Src/flash.c:20:6:Flash_ErasePage	32	static
+../Core/Src/flash.c:33:6:Flash_WriteFlag	16	static
+../Core/Src/flash.c:47:6:Flash_ReadFlag	0	static
+../Core/Src/flash.c:53:6:Flash_Write	40	static

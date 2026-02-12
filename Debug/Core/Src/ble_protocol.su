@@ -1,0 +1,6 @@
+../Core/Src/ble_protocol.c:62:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/ble_protocol.c:168:10:crc16_modbus	20	static
+../Core/Src/ble_protocol.c:575:6:sendResponse	48	static
+../Core/Src/ble_protocol.c:87:6:process_UART	40	static,ignoring_inline_asm
+../Core/Src/ble_protocol.c:241:6:processFrame	48	static
+../Core/Src/ble_protocol.c:208:6:frame_count_check	24	static

@@ -1,0 +1,14 @@
+../Core/Src/routines.c:36:6:start_routine	8	static
+../Core/Src/routines.c:90:6:shutdown_routine	16	static
+../Core/Src/routines.c:121:6:ping	8	static
+../Core/Src/routines.c:137:6:session_end	8	static
+../Core/Src/routines.c:148:6:app_session_end	8	static
+../Core/Src/routines.c:157:6:manual_session_end	8	static
+../Core/Src/routines.c:166:6:idle_state	8	static
+../Core/Src/routines.c:179:6:session_start	8	static
+../Core/Src/routines.c:187:6:app_session_start	8	static
+../Core/Src/routines.c:195:6:manual_session_start	8	static
+../Core/Src/routines.c:208:6:session_state	16	static
+../Core/Src/routines.c:253:6:check_dev_charging	16	static
+../Core/Src/routines.c:305:6:self_diagnosis	8	static
+../Core/Src/routines.c:330:6:clinical_mode_check	8	static

@@ -1,0 +1,4 @@
+../Core/Src/eeprom.c:15:19:EEPROM_WriteByte	24	static
+../Core/Src/eeprom.c:33:9:EEPROM_ReadByte	40	static
+../Core/Src/eeprom.c:47:19:EEPROM_Write	64	static
+../Core/Src/eeprom.c:78:19:EEPROM_Read	48	static
